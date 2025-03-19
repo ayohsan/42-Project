@@ -2,6 +2,17 @@
 
 Ce repository contient les projets réalisés lors de la piscine 42 : **BSQ**, **Rush00** et **Rush01**. Ces projets ont été développés en **C** et permettent d'explorer différentes logiques d'algorithmie et de gestion d'affichage ASCII.
 
+1. Cloner le repository :
+   ```bash
+   git clone https://github.com/ayohsan/42-Project.git
+   cd 42-Project
+   ```
+
+2. Augmenter les permissions si nécessaire :
+   ```bash
+   chmod +x
+   ```
+   
 ## 🟢 BSQ (Biggest Square)
 
 ### 🔹 Description
